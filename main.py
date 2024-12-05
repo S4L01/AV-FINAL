@@ -8,6 +8,7 @@ nutricionista = Nutricionista(
     email="fran@gmail",
     salario= 1.599,
     endereco=Endereco("Rua", 12, "ao lado da sorveteria"),
+    crn="adad"
 
 )
 
@@ -16,6 +17,7 @@ engenheiro = Engenheiro(
     email="salo@gmail",
     salario= 1.499,
     endereco=Endereco("Rua", 13, "ao lado DO BAR"),
+    crea="123"
 
 )
 
